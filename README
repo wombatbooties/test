@@ -1,13 +1,10 @@
 TEST REPO INITIALIZED
 
-X. Next step.  Pull down this modified README by doing the following commands:
 
 The flow:
 
 > git pull
-X. Then remove all the lines with an X. at start and save
 > git status
-X. add changes, commit changes, push to repo
 > git add README
 > git commit -m "removed the X. lines"
 > git push 
