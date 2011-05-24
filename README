@@ -23,5 +23,7 @@ Then append to end of that file:
   [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" 
 
 Open a new terminal and type:
-  rvm
+  rvm install 1.9.2
+# hopefully that works
+  rvm use 1.9.2 --default
 
