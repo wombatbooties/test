@@ -1,13 +1,13 @@
-TEST REPO INITIALIZED
+# TEST REPO INITIALIZED #
 
 
-The flow:
+*The flow:*
 
-> git pull
-> git status
-> git add README
-> git commit -m "removed the X. lines"
-> git push 
+1. git pull
+2. git status
+3. git add README
+4. git commit -m "removed the X. lines"
+5. git push 
 
 
 Ruby via RVM for Ubuntu:
